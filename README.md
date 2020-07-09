@@ -1,7 +1,7 @@
 # The purpose of this repository is to store files for a Survey done in 2019 in Dublin towards Consumers Behaviour.
 
 ## Authors: Maíra Galvão
-Date: 
+## Date: 
 
 **Introduction:** Today, the *Irish* craft beer industry is in a period of consistent growth in Ireland and increasing worldwide competition, which is gaining market shares. 
 Despite the relevant growth, Irish breweries have a lot more to learn in terms of increasing their consumer reach through marketing.

@@ -13,3 +13,7 @@ A significant factor to be considered is that many craft breweries in Ireland do
 
 Hence this study aims to analyse the data of a survey done in 2019 with craft beer consumers in Dbulin-Ireland in order to understand consumers’ mentality;
 purchase decision habits; their behaviour towards loyalty, and finally the gap between the marketing and consumers’ perception.
+
+
+# on progress...
+
